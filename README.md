@@ -241,6 +241,7 @@ These bugs are just annoying, they are not critical. They provide false-positive
 ### CMS Plugins
 
 - WordPress: https://fr.wordpress.org/plugins/wp-content-security-policy/
+- Joomla: https://www.richeyweb.com/software/joomla/plugins/142-system-content-security-policy
 
 Enjoy!
 
